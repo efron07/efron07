@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Web Developer<br>UI/UX Designer<br>current working on rentME app.<br> START-UP COMMING
+Fullstack Web Developer<br>UI/UX Designer<br>current working on BiasharaAnalyser.<br> START-UP COMMING
 
 
 ## 🌐 Socials:
