@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Web Developer<br>UI/UX Designer<br>current working on BiasharaAnalyser.<br> START-UP COMMING <br> for Reactjs,Nodejs and Javascript project contact me <br> +255716695346 <br> efrondamasco@gmail.com
+Fullstack Web Developer<br>UI/UX Designer<br>Current Working on BiasharaAnalyser.<br> START-UP<br> For ReactJs,NodeJs and JavaScript Project Contact Me <br> +255716695346 <br> Efrondamasco@gmail.com
 
 
 ## 🌐 Socials:
