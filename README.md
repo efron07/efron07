@@ -1,131 +1,147 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/your-github-username?v=4" width="150" style="border-radius:50%; border: 2px solid #34d399;"/>
-  <h1 style="margin-bottom: 0;">Efron Damasco</h1>
-  <p style="margin-top: 0; font-size: 1.2em; color: #34d399;">Full Stack Developer | JavaScript & Laravel Craftsman</p>
-  <a href="https://your-portfolio-website.com" target="_blank" style="font-size: 0.9em; color: #a855f7;">Portfolio</a> | <a href="https://your-linkedin-profile.com" target="_blank" style="font-size: 0.9em; color: #a855f7;">LinkedIn</a>
+  <img src="https://avatars.githubusercontent.com/efron07" width="140" alt="Efron Damasco"/>
+
+  <h1>Efron Damasco</h1>
+
+  <p>
+    <b>Senior Software Engineer · Fintech &amp; Core Banking Systems</b><br/>
+    Laravel · Node.js · PostgreSQL · Mobile Money &amp; Bank Integrations<br/>
+    <i>Dodoma, Tanzania 🇹🇿</i>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/efron-damasco-70636a199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://twitter.com/damascoefron"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://behance.net/efrondamasco"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+    <a href="mailto:efrondamasco@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=efron07&style=flat-square&color=34d399" alt="Profile views"/>
 </div>
 
-## About Me 👋
-
-Hey there! I'm Efron Damasco, a passionate Software Developer with a knack for crafting robust and user-friendly web applications that solve real-world problems. My journey into the world of programming has been an exciting one, fueled by a desire to transform ideas into tangible, impactful solutions. I'm driven by the challenge of turning complex problems into elegant, efficient, and maintainable code, and I'm always eager to expand my skillset and explore new technologies.
-
-I'm not just a coder; I'm a problem-solver who believes in the power of technology to improve lives. I honed my skills through countless hours of hands-on development, diving deep into tutorials, books, and blogs, and building a variety of projects that have shaped my understanding of software engineering. One project I'm particularly proud of is the PCCB-SACCOS Management System, which streamlined operations and improved efficiency for the organization.
-I hold a degree in Information Systems from the University of Dodoma, which provided me with a strong foundation in software development principles and practices.
-
-## What I Do 💻
-
-I specialize in building full-stack web solutions, with a focus on both front-end and back-end development. I leverage the power of JavaScript (Node.js + Express.js) and PHP (Laravel) to create high-quality applications that adhere to industry best practices. My experience spans a range of technologies, allowing me to design and implement scalable, efficient, and maintainable software. I have experience working with high-quality clients to develop solutions used by thousands of users, and I'm passionate about delivering projects that exceed expectations.
-
-My approach to development is user-centered, ensuring that the applications I create are not only technically sound but also intuitive and enjoyable to use. I'm a strong advocate for clean code, thorough testing, and continuous improvement.
-
-## My Skills 🛠️
-
-Here's a breakdown of my tech stack:
-
-<details>
-<summary>Languages</summary>
-JavaScript (ES6+), PHP, Node.js</details>
-
-<details>
-<summary>Frameworks & Tools</summary>
-Laravel, Express.js, React.js, Angular, Next.js, Tailwind CSS</details>
-
-<details>
-<summary>Databases & Storage</summary>
-SQLite, MySQL, PostgreSQL, MongoDB</details>
-
-<details>
-<summary>Cloud & Hosting</summary>
-AWS, Heroku, Vercel</details>
-
-<details>
-<summary>API Testing</summary>
-Insomnia, Postman</details>
-
-<details>
-<summary>Development Environment</summary>
-VSCode, WebStorm, Sublime, Ubuntu, Kali, Zsh, Bash, Git, GitHub</details>
-
-## Let's Connect 🤝
-
-I'm currently open to contract work and exploring full-time opportunities. If you have an interesting project or a challenging role that aligns with my skills and passion, I'd love to hear from you! Let's connect and discuss how I can contribute to your team's success.
-
-## Hobbies 🎸
-
-When I'm not coding, you can find me:
-
-* Listening to Music 🎧
-* Watching Movies (Action, Comedy, Documentaries) 🎬
-* Reading 📖
-* Jogging 🏃‍♂️
 ---
 
+## 👋 About Me
+
+I build the systems that move people's money.
+
+For the past several years I've worked almost entirely on **enterprise financial software** — core banking, SACCO and microfinance platforms, general ledgers, payment rails and the unglamorous, high-stakes plumbing behind them. My work runs in production at financial institutions serving thousands of members, where a rounding error isn't a bug report, it's an audit finding.
+
+Most recently I served as **Senior Software Developer and technical lead at SAFCO Fintech**, holding CTO-level ownership of **SmartSaccos**, a SACCO management platform in active development for over 18 months with live institutional clients. I led a team of **30+ developers** across product, integrations and delivery.
+
+I hold a degree in **Information Systems from the University of Dodoma**, but most of what I know came from shipping — and then maintaining — real systems that real people depend on.
 
 ---
 
-## 🌐 Connect with Me:
+## 💼 What I Do
 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/efrondamasco)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dezaraso)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/efrondamasco_07)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efron-damasco-70636a199/)  
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/efrondamasco)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@efron07)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/damascoefron)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/efrondamasco)  
+**🏦 Core Financial Systems**
+Member management, loan origination and repayment schedules, savings and share capital, double-entry general ledger, fixed asset depreciation, imprest management, payroll deductions, PAR and regulatory reporting.
 
----
+**🔌 Payments & Bank Integrations**
+M-Pesa, Airtel Money, Flutterwave, DCB Bank (KoinetPay) and CRDB Bank — including host-to-host integration over **IPSec/strongSwan VPN** with RSA request signing, idempotency guarantees, disbursement state machines, automated GL posting and end-of-day reconciliation.
 
-# 💻 Tech Stack:
+**⚙️ Performance & Architecture at Scale**
+PostgreSQL tuning with composite indexes and balance-snapshot patterns for O(1) balance reads, materialized views for portfolio-at-risk reporting, and chunked Redis queues processing 15,000+ payroll records per batch.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
+**📐 Compliance-Driven Engineering**
+I translate regulation into software: the Tanzania Cooperative Societies Regulations (GN 272/2015) and Microfinance SACCOS Regulations (GN 675/2019) sit next to my schema designs, not in a separate folder someone reads later.
 
 ---
 
-# 📊 GitHub Stats:
+## 🚀 Featured Work
 
-![](https://github-readme-stats.vercel.app/api?username=efron07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=efron07&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=efron07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+| Project | What it is | Stack |
+|---|---|---|
+| **SmartSaccos** | Full SACCO management platform — members, loans, savings, shares, GL, fixed assets, imprest. Live institutional clients including PCCB SACCOS. | Laravel · Livewire 3 · Filament · PostgreSQL · Redis |
+| **CRDB Bank Integration** | Host-to-host banking integration over IPSec VPN: RSA signatures, idempotent callbacks, GL posting, SMS notifications, EOD reconciliation. | Laravel · strongSwan · PostgreSQL |
+| **Microfin** | Standalone microfinance platform built to Tier-3 regulatory requirements, packaged for institutional deployment. | Laravel · MySQL |
+| **WealthLens** | Family finance tracking SaaS designed for East African mobile-money users, with a 30-screen mobile app specification. | React · Vite · Express · Prisma · PostgreSQL |
+| **Construction Link TZ** | Multi-sided marketplace with built-in escrow for the Tanzanian construction sector. | Laravel · MySQL |
+| **Dev Reference Toolkit** | 9 interactive developer reference tools (MySQL, Linux/DevOps, Laravel, Git, APIs, Docker, JS/TS, Regex, Security) with Tanzania-specific context. | HTML · JS · Netlify |
 
----
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=efron07&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)  
+> I've also shipped and supported **SmartFinance**, **SmartAccounting**, **SmartSchool** and **SmartGrant** in long-running production environments.
 
 ---
 
-### 🚀 Visitor Count
+## 🛠️ Tech Stack
 
-[![](https://visitcount.itsvg.in/api?id=efron07&icon=0&color=0)](https://visitcount.itsvg.in)  
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Backend**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+
+**Data & Infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Payments & Integrations**
+
+![M-Pesa](https://img.shields.io/badge/M--Pesa-E60000?style=for-the-badge&logoColor=white)
+![Airtel Money](https://img.shields.io/badge/Airtel%20Money-ED1C24?style=for-the-badge&logoColor=white)
+![Flutterwave](https://img.shields.io/badge/Flutterwave-F5A623?style=for-the-badge&logo=flutter&logoColor=white)
+![CRDB](https://img.shields.io/badge/CRDB%20Bank-007A33?style=for-the-badge&logoColor=white)
+![DCB](https://img.shields.io/badge/DCB%20KoinetPay-1F4E79?style=for-the-badge&logoColor=white)
 
 ---
 
-## 💰 Support Me:
+## 📊 GitHub Stats
 
-If you’d like to support my work, you can donate via PayPal:
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/efrondamasco@gmail.com)  
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=efron07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efron07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=efron07&theme=dark&hide_border=true" alt="Streak"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=efron07&theme=darkhub&no-frame=true&margin-w=6&column=7" alt="Trophies"/>
+</div>
 
 ---
 
-### 🚀 Let's build something awesome together! 💡
+## 🤝 Let's Work Together
+
+I'm currently **open to contract work, consulting engagements and full-time roles** — particularly where the problem involves money, ledgers, compliance or integration work that has to be right the first time.
+
+**I'm a strong fit if you need:**
+- A core banking, SACCO, microfinance or lending platform built or rescued
+- Mobile money and bank integrations for the East African market
+- A double-entry accounting engine that will survive an audit
+- An engineer who can lead a team and write the schema
+
+📫 **Reach me:** [efrondamasco@gmail.com](mailto:efrondamasco@gmail.com) · [LinkedIn](https://www.linkedin.com/in/efron-damasco-70636a199/)
+
+---
+
+## 🎧 Outside the Editor
+
+Long-distance jogging, documentaries and action films, a permanent reading backlog, and studying the markets — I trade **XAU/USD**, which is really just another system with rules worth understanding.
+
+<div align="center">
+  <br/>
+  <i>"Software that handles money doesn't get to be almost correct."</i>
+  <br/><br/>
+</div>
