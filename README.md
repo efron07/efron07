@@ -27,7 +27,7 @@ I build the systems that move people's money.
 
 For the past several years I've worked almost entirely on **enterprise financial software** — core banking, SACCO and microfinance platforms, general ledgers, payment rails and the unglamorous, high-stakes plumbing behind them. My work runs in production at financial institutions serving thousands of members, where a rounding error isn't a bug report, it's an audit finding.
 
-Most recently I served as **Senior Software Developer and technical lead at SAFCO Fintech**, holding CTO-level ownership of **SmartSaccos**, a SACCO management platform in active development for over 18 months with live institutional clients. I led a team of **30+ developers** across product, integrations and delivery.
+Most recently I served as **Senior Software Developer ** current a SACCO management platform in active development for over 18 months with live institutional clients.
 
 I hold a degree in **Information Systems from the University of Dodoma**, but most of what I know came from shipping — and then maintaining — real systems that real people depend on.
 
